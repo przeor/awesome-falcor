@@ -6,5 +6,4 @@
 
 * [Falcor's shopping cart example] (https://github.com/przeor/falcor-netflix-shopping-cart-example)
 
-
-### Pull requests are welcome!
+### FalcorJS's resources are welcome. Please do a pull request.
