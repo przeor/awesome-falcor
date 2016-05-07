@@ -1,6 +1,6 @@
 ### **Awesome Falcor Netflix** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[<img src="http://test.przeorski.pl/falcorjs.jpg" align="right" width="280">](http://test.przeorski.pl/falcorjs.jpg)
+[<img src="http://test.przeorski.pl/falcorjs.jpg" align="right" width="420">](http://test.przeorski.pl/falcorjs.jpg)
 
 > A curated list of delightful Falcor.js [packages](#packages) and [resources](#resources).
 
