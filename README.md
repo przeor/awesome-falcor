@@ -1,8 +1,16 @@
 ### **Awesome Falcor Netflix** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+[<img src="http://test.przeorski.pl/falcorjs.jpg" align="right" width="280">](http://test.przeorski.pl/falcorjs.jpg)
+
+> A curated list of delightful Falcor.js [packages](#packages) and [resources](#resources).
+
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like [awesome-npm](https://github.com/sindresorhus/awesome-npm).*
+
+*Please read the [contribution guidelines](contributing.md) before contributing.*
+
+
 FalcorJS is a new category of libraries that help you make one model of your application everywhere (on backend and front-end at the same time). It's a revolution in terms of productivity boost for full-stack developers.
 
-[![Awesome](http://test.przeorski.pl/falcorjs.jpg)](http://test.przeorski.pl/falcorjs.jpg)
 
 ## GitHub' examples
 * [Server Side Falcor/React demo] (https://github.com/city41/server-side-react-and-falcor)
