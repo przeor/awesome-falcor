@@ -4,7 +4,7 @@
 
 > A curated list of delightful Falcor.js [packages](#packages) and [resources](#resources).
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like [awesome-npm](https://github.com/sindresorhus/awesome-npm).*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 *Please read the [contribution guidelines](contributing.md) before contributing.*
 
@@ -26,12 +26,18 @@ FalcorJS is a new category of libraries that help you make one model of your app
 ## Packages
 ### Main Libraries
 * [falcor-router] (https://github.com/Netflix/falcor-router)
-* 
+* [falcor-path-utils] (https://github.com/Netflix/falcor-path-utils)
+* [falcor-path-syntax] (https://github.com/Netflix/falcor-path-syntax)
+* [falcor-express] (https://github.com/Netflix/falcor-express)
+* [falcor-http-datasource] (https://github.com/Netflix/falcor-http-datasource)
+* [falcor-hapi] (https://github.com/Netflix/falcor-hapi)
+* [falcor-restify] (https://github.com/Netflix/falcor-restify)
 
 ### Examples
 * [Server Side Falcor/React demo] (https://github.com/city41/server-side-react-and-falcor)
 * [React Falcor TodoMVC Example] (https://github.com/jcouyang/react-falcor)
 * [Falcor's shopping cart example] (https://github.com/przeor/falcor-netflix-shopping-cart-example)
+* [falcor-router-demo] (https://github.com/Netflix/falcor-router-demo)
 
 ## Resources
 
