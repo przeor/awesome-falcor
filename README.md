@@ -38,18 +38,33 @@ FalcorJS is a new category of libraries that help you make one model of your app
 * [React Falcor TodoMVC Example] (https://github.com/jcouyang/react-falcor)
 * [Falcor's shopping cart example] (https://github.com/przeor/falcor-netflix-shopping-cart-example)
 * [falcor-router-demo] (https://github.com/Netflix/falcor-router-demo)
+* [angular2-falcor-starter] (https://github.com/gdi2290/angular2-falcor-starter)
+* [angular2-falcor-webpack-builder] (https://github.com/jimthedev/angular2-falcor-webpack-builder)
 
 ## Resources
 
+* [FalcorJS on Reddit] (https://www.reddit.com/r/falcorjs_
+
 ### Articles
 * [Falcorjs - what it is and why you should care] (https://reactjs.co/2016/02/03/what-is-netflix-falcor-and-why-you-should-care/)
+* [Falcor Netflix (FalcorJS) – the next big thing in JavaScript?] (http://reactjs.ninja/falcor-netflix-falcorjs-the-next-big-thing-in-javascript/)
+* [What is Falcor? One Model Everywhere] (https://netflix.github.io/falcor/starter/what-is-falcor.html)
+* [Lightening the load with FalcorJS] (https://wiredcraft.com/blog/falcor-dataflow/)
+* [Resources related to Netflix Falcor.JS and React.JS (books, examples & tutorials)] (https://reactjs.co/2016/03/22/taking-a-look-at-related-to-falcor-and-react-tools-and-resources/)
 
 ### Videos
 * [Netflix JavaScript Talks - Falcor] (https://www.youtube.com/watch?v=z8UgDZ4rXBU)
+* [FalcorJS tutorial on youtube (playlist)] (https://www.youtube.com/watch?v=xby_MUlBOw0&list=PL-7Rk5Igg3dfdxlNKNSMJHfK_yG5ceiZf)
+* [Bind to the cloud with Falcor - Paul Taylor] (https://www.youtube.com/watch?v=5cA7ZHHkVdo)
+* [HTML5DevConf: Jafar Husain, Netflix: Falcor: One Model Everywhere] (https://www.youtube.com/watch?v=aMAs7a_iWVQ)
+* [Bind to the Cloud with Falcor] (https://www.youtube.com/watch?v=OE02JXX1VEM)
+* [Binding to the Cloud with Falcor Jafar Husain] (https://www.youtube.com/watch?v=WiO1f6h15c8)
+* [Angular Air Episode 26: FalcorJS and Angular 2] (https://www.youtube.com/watch?v=WL54eYbTJUw)
 
 ### Slides
 * [Falcor Netflix Slides (pptx presentation)](https://drive.google.com/file/d/0B7zweKma2uL1c1pNbTVGbjlLdnc/view)
-
+* [FalcorJS and React by Brian Holt] (https://speakerdeck.com/btholt/falcorjs-and-react)
+* [How and When to Use FalcorJS] (http://www.slideshare.net/Wiredcraft/how-and-when-to-use-falcorjs)
 
 
 #### FalcorJS's resources are welcome. Please do a pull request.
