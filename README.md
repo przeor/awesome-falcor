@@ -43,7 +43,7 @@ FalcorJS is a new category of libraries that help you make one model of your app
 
 ## Resources
 
-* [FalcorJS on Reddit] (https://www.reddit.com/r/falcorjs_
+* [FalcorJS on Reddit] (https://www.reddit.com/r/falcorjs)
 
 ### Articles
 * [Falcorjs - what it is and why you should care] (https://reactjs.co/2016/02/03/what-is-netflix-falcor-and-why-you-should-care/)
