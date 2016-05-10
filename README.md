@@ -17,6 +17,8 @@
 
 - [Packages] (#packages)
 	- [Main Libraries] (#main-libraries)
+	- [ExpressJS] (#expressjs)
+	- [Main Libraries] (#main-libraries)
 - [Examples](#examples)
 	- [React Examples] (#react-examples)
 	- [Angular Examples] (#angular-examples)
@@ -27,13 +29,19 @@
 
 ## Packages
 ### Main Libraries
-* [falcor-router] (https://github.com/Netflix/falcor-router)
 * [falcor-path-utils] (https://github.com/Netflix/falcor-path-utils)
 * [falcor-path-syntax] (https://github.com/Netflix/falcor-path-syntax)
-* [falcor-express] (https://github.com/Netflix/falcor-express)
 * [falcor-http-datasource] (https://github.com/Netflix/falcor-http-datasource)
-* [falcor-hapi] (https://github.com/Netflix/falcor-hapi)
 * [falcor-restify] (https://github.com/Netflix/falcor-restify)
+
+### ExpressJS
+* [falcor-router] (https://github.com/Netflix/falcor-router)
+* [falcor-express] (https://github.com/Netflix/falcor-express)
+
+### HapiJS
+* [falcor-hapi] (https://github.com/Netflix/falcor-hapi)
+
+### Dot NET
 * [.NET Falcor router for efficient data fetching] (https://github.com/falcordotnet/falcor.net)
 
 ## Examples
