@@ -1,15 +1,15 @@
-### **Awesome Falcor Netflix** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+### **Awesome Falcor** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="http://test.przeorski.pl/falcorjs.jpg" align="right" width="420">](http://test.przeorski.pl/falcorjs.jpg)
 
-> A curated list of delightful Falcor.js [packages](#packages) and [resources](#resources).
+> A curated list of delightful Falcor [packages](#packages) and [resources](#resources).
 
 *Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 *Please read the [contribution guidelines](contributing.md) before contributing.*
 
 
-FalcorJS is a new category of libraries that help you make one model of your application everywhere (on backend and front-end at the same time). It's a revolution in terms of productivity boost for full-stack developers.
+Falcor is a new category of libraries that help you make one model of your application everywhere (on backend and front-end at the same time). It's a revolution in terms of productivity boost for full-stack developers.
 
 
 
@@ -38,24 +38,24 @@ FalcorJS is a new category of libraries that help you make one model of your app
 * [Server Side Falcor/React demo] (https://github.com/city41/server-side-react-and-falcor)
 * [React Falcor TodoMVC Example] (https://github.com/jcouyang/react-falcor)
 * [Falcor's shopping cart example] (https://github.com/przeor/falcor-netflix-shopping-cart-example)
-* [falcor-router-demo] (https://github.com/Netflix/falcor-router-demo)
-* [angular2-falcor-starter] (https://github.com/gdi2290/angular2-falcor-starter)
-* [angular2-falcor-webpack-builder] (https://github.com/jimthedev/angular2-falcor-webpack-builder)
+* [Falcor-router-demo] (https://github.com/Netflix/falcor-router-demo)
+* [Angular2-falcor-starter] (https://github.com/gdi2290/angular2-falcor-starter)
+* [Angular2-falcor-webpack-builder] (https://github.com/jimthedev/angular2-falcor-webpack-builder)
 
 ## Resources
 
-* [FalcorJS on Reddit] (https://www.reddit.com/r/falcorjs)
+* [Falcor on Reddit] (https://www.reddit.com/r/falcorjs)
 
 ### Articles
-* [Falcorjs - what it is and why you should care] (https://reactjs.co/2016/02/03/what-is-netflix-falcor-and-why-you-should-care/)
-* [Falcor Netflix (FalcorJS) – the next big thing in JavaScript?] (http://reactjs.ninja/falcor-netflix-falcorjs-the-next-big-thing-in-javascript/)
+* [Falcor - what it is and why you should care] (https://reactjs.co/2016/02/03/what-is-netflix-falcor-and-why-you-should-care/)
+* [Falcor – the next big thing in JavaScript?] (http://reactjs.ninja/falcor-netflix-falcorjs-the-next-big-thing-in-javascript/)
 * [What is Falcor? One Model Everywhere] (https://netflix.github.io/falcor/starter/what-is-falcor.html)
-* [Lightening the load with FalcorJS] (https://wiredcraft.com/blog/falcor-dataflow/)
-* [Resources related to Netflix Falcor.JS and React.JS (books, examples & tutorials)] (https://reactjs.co/2016/03/22/taking-a-look-at-related-to-falcor-and-react-tools-and-resources/)
+* [Lightening the load with Falcor] (https://wiredcraft.com/blog/falcor-dataflow/)
+* [Resources related to Netflix Falcor and ReactJS (books, examples & tutorials)] (https://reactjs.co/2016/03/22/taking-a-look-at-related-to-falcor-and-react-tools-and-resources/)
 
 ### Videos
 * [Netflix JavaScript Talks - Falcor] (https://www.youtube.com/watch?v=z8UgDZ4rXBU)
-* [FalcorJS tutorial on youtube (playlist)] (https://www.youtube.com/watch?v=xby_MUlBOw0&list=PL-7Rk5Igg3dfdxlNKNSMJHfK_yG5ceiZf)
+* [Falcor tutorial on youtube (playlist)] (https://www.youtube.com/watch?v=xby_MUlBOw0&list=PL-7Rk5Igg3dfdxlNKNSMJHfK_yG5ceiZf)
 * [Bind to the cloud with Falcor - Paul Taylor] (https://www.youtube.com/watch?v=5cA7ZHHkVdo)
 * [HTML5DevConf: Jafar Husain, Netflix: Falcor: One Model Everywhere] (https://www.youtube.com/watch?v=aMAs7a_iWVQ)
 * [Bind to the Cloud with Falcor] (https://www.youtube.com/watch?v=OE02JXX1VEM)
@@ -63,9 +63,9 @@ FalcorJS is a new category of libraries that help you make one model of your app
 * [Angular Air Episode 26: FalcorJS and Angular 2] (https://www.youtube.com/watch?v=WL54eYbTJUw)
 
 ### Slides
-* [Falcor Netflix Slides (pptx presentation)](https://drive.google.com/file/d/0B7zweKma2uL1c1pNbTVGbjlLdnc/view)
+* [Falcor Slides (pptx presentation)](https://drive.google.com/file/d/0B7zweKma2uL1c1pNbTVGbjlLdnc/view)
 * [FalcorJS and React by Brian Holt] (https://speakerdeck.com/btholt/falcorjs-and-react)
 * [How and When to Use FalcorJS] (http://www.slideshare.net/Wiredcraft/how-and-when-to-use-falcorjs)
 
 
-#### FalcorJS's resources are welcome. Please do a pull request.
+#### Falcor's resources are welcome. Please do a pull request.
