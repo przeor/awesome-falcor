@@ -17,7 +17,7 @@
 
 - [Packages](#packages)
 	- [Main Libraries](#main-libraries)
-	- [Examples](#examples)
+- [Examples](#examples)
 - [Resources] (#resources)
 	- [Articles](#articles)
 	- [Videos](#videos)
@@ -34,7 +34,7 @@
 * [falcor-restify] (https://github.com/Netflix/falcor-restify)
 * [.NET Falcor router for efficient data fetching] (https://github.com/falcordotnet/falcor.net)
 
-### Examples
+## Examples
 * [Server Side Falcor/React demo] (https://github.com/city41/server-side-react-and-falcor)
 * [React Falcor TodoMVC Example] (https://github.com/jcouyang/react-falcor)
 * [Falcor's shopping cart example] (https://github.com/przeor/falcor-netflix-shopping-cart-example)
