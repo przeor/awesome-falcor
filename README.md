@@ -9,7 +9,7 @@
 *Please read the [contribution guidelines](contributing.md) before contributing.*
 
 
-Falcor is a new category of libraries that help you make one model of your application everywhere (on backend and front-end at the same time). It's a revolution in terms of productivity boost for full-stack developers.
+[Falcor is a new category of libraries that help you make one](https://netflix.github.io/falcor/) model of your application everywhere (on backend and front-end at the same time). It's a revolution in terms of productivity boost for full-stack developers.
 
 
 
