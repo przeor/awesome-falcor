@@ -15,15 +15,15 @@
 
 ## Table of Contents
 
-- [Packages](#packages)
-	- [Main Libraries](#main-libraries)
+- [Packages] (#packages)
+	- [Main Libraries] (#main-libraries)
 - [Examples](#examples)
-	- [React Examples](#react-examples)
-	- [Angular Examples](#angular-examples)
-- [Resources](#resources)
-	- [Articles](#articles)
-	- [Videos](#videos)
-	- [Slides](#slides)
+	- [React Examples] (#react-examples)
+	- [Angular Examples] (#angular-examples)
+- [Resources] (#resources)
+	- [Articles] (#articles)
+	- [Videos] (#videos)
+	- [Slides] (#slides)
 
 ## Packages
 ### Main Libraries
