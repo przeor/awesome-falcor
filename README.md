@@ -47,7 +47,7 @@
 * [Falcor on Reddit] (https://www.reddit.com/r/falcorjs)
 
 ### Articles
-* [Falcor - what it is and why you should care] (https://reactjs.co/2016/02/03/what-is-netflix-falcor-and-why-you-should-care/)
+* [Falcor from Netflix - what it is and why you should care] (https://reactjs.co/2016/02/03/what-is-netflix-falcor-and-why-you-should-care/)
 * [Falcor – the next big thing in JavaScript?] (http://reactjs.ninja/falcor-netflix-falcorjs-the-next-big-thing-in-javascript/)
 * [What is Falcor? One Model Everywhere] (https://netflix.github.io/falcor/starter/what-is-falcor.html)
 * [Lightening the load with Falcor] (https://wiredcraft.com/blog/falcor-dataflow/)
