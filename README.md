@@ -16,7 +16,7 @@
 ## Table of Contents
 
 - [Books] (#books)
-	- [Mastering Full Stack React Web Development] (#mastering-full-stack-react-web-development)
+	- [Mastering Full Stack React Web Development] (#mastering-full-stack-reactjs-web-development)
 - [Packages] (#packages)
 	- [Main Libraries] (#main-libraries)
 	- [ExpressJS] (#expressjs)
